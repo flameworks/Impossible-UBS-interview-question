@@ -1,7 +1,7 @@
 # Impossible-UBS-interview-question
 Code for printing the answers to the "impossibile" UBS Interview question, not limited to 4 digits
 
-In Sep 2011, Business Insider posted an article titled "Can You Answer This Impossible Interview Question Posed To An Interviewee At UBS?" Here is the link: http://www.businessinsider.com/interview-question-ubs-quant-2011-9?IR=T&
+In Sep 2011, Business Insider posted an article titled "Can You Answer This Impossible Interview Question Posed To An Interviewee At UBS?" Read this article <a href="http://www.businessinsider.com/interview-question-ubs-quant-2011-9?IR=T&" target="_blank">here</a>.
 
 <b>And here is the question:</b>
 The number 1978 is such a number that if you add the first 2 sets of numbers, you'll will get the middle 2 sets of numbers. So in 1978, 19+78=97; so the question is write a formula that can find numbers that satisfy these conditions.
