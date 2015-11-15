@@ -10,6 +10,9 @@ My python code prints out all numbers which satisfies the given conditions. Cont
 1) The first digit of the required number cannot be 0<br>
 2) The interviewer did not specify that the required number must only be 4 digits
 
+The Method "interview" takes in N, the number of "special numbers" that the user wants to return, and returns the first N "special numbers". The while loop can be changed to 'while True:' to search for numbers in an infinite loop.
+
+<b>Formula:</b><br>
 Beginning from all 4 digit numbers, let ABCD be a 4digit number each number be represented by a combination of it's integer characters a,b,c,d. Then the formula for finding all 4 digit numbers is thus based on algebraic manipulation that
 10a + b + 10c + d = 10b + c<br>
 Rearranging gives<br>
