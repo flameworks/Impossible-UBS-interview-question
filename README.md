@@ -1,5 +1,5 @@
 # Impossible-UBS-interview-question
-Code for printing the answers to the "impossibile" UBS Interview question, not limited to 4 digits
+Code for printing the answers to the "impossible" UBS Interview question, not limited to 4 digits
 
 In Sep 2011, Business Insider posted an article titled "Can You Answer This Impossible Interview Question Posed To An Interviewee At UBS?" Read this article <a href="http://www.businessinsider.com/interview-question-ubs-quant-2011-9?IR=T&" target="_blank">here</a>.
 
